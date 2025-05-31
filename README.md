@@ -1,6 +1,6 @@
 # Hajj Guide
 
-<img src="HAJJ_GUID_LOGO.png" alt="Hajj Guide Logo" width="200"/>
+<img src="HAJJ_GUID_LOGO.png" alt="Hajj Guide Logo" width="300"/>
 
 Hajj Guide is a Java-based system designed to manage essential Hajj services through a centralized platform. It facilitates pilgrim registration, medical record management, accommodation and transport booking, and permit generation to improve the pilgrimage experience.
 
